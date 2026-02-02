@@ -19,3 +19,6 @@ This project is an interactive **Excel Dashboard** designed to analyze customer 
 * **Pivot Tables & Charts:** Used to aggregate data and create dynamic visualizations.
 * **Slicers:** Implemented for interactive filtering by **Location** and **Season**.
 * **Dashboard Design:** Created a clean UI with navigation buttons (Home, Settings, Database) for a seamless user experience.
+## Dashboard Preview  
+![WhatsApp Image 2026-02-02 at 8 54 03 PM](https://github.com/user-attachments/assets/6e5d10d0-dd1c-4bb3-aa94-70b90f6a080a)
+
